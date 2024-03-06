@@ -1,4 +1,4 @@
 // Manahil Khalid
 // Monday
 //simple tense code
-console.log(`ayesha writte a letter`);
+console.log(`ayesh writte a letter`);
