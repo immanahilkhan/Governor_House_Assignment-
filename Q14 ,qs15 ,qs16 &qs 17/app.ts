@@ -21,7 +21,7 @@ while (guest.length>2 ) {
     let remove_guest = guest.pop();
     console.log(`sorry  ${remove_guest} you are not invited in tomorrow dinner ,` );
 }
-
+// ex:19
 for(let i=0; i<guest.length; i++) {
       console.log( guest[i] + ` you are still invited for tomorrow dinner \n thank you `)
 }
